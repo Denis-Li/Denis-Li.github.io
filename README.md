@@ -13,4 +13,4 @@ Home lesson:
 
 Mavic:
 
-[Mavic](https://denis-li.github.io/mavic/ "Mavic")
+[Mavic](https://denis-li.github.io/mavic/app/ "Mavic")
