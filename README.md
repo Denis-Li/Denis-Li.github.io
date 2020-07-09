@@ -1,5 +1,5 @@
-# Денис Ли
-Домашние задания:
+# Denis Lira
+Home lesson:
 
 [Урок 8](https://denis-li.github.io/lesson_8/ "Домашнее задание") - знакомство с bootstrap
 
@@ -11,3 +11,6 @@
 
 [Урок 20](https://denis-li.github.io/lesson_20/ "Домашнее задание") - работа с видеофоном
 
+Mavic:
+
+[Mavic](https://denis-li.github.io/mavic/ "Mavic")
